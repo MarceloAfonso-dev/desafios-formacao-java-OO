@@ -1,3 +1,5 @@
+package br.com.alura.aplicandoorientacaoaobjetos.desafio1;
+
 import java.util.Scanner;
 
 public class Desafio {
